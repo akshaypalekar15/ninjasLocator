@@ -1,0 +1,55 @@
+{
+	"name": "Swift snake",
+	"rank": "5",
+	"available": "true",
+	"geometry": {"type": "point", "coordinates": [-80, 25.79]}
+}
+
+{
+	"name": "King snake",
+	"rank": "6",
+	"available": "true",
+	"geometry": {"type": "point", "coordinates": [80.5, 30]}
+}
+
+{
+	"name": "Gas snake",
+	"rank": "7",
+	"available": "true",
+	"geometry": {"type": "point", "coordinates": [50, -90]}
+}
+
+{
+	"name": "Miller",
+	"rank": "8",
+	"available": "true",
+	"geometry": {"type": "point", "coordinates": [40, 76]}
+}
+
+{
+	 "name": "Snake",
+    	"rank": "2",
+    	"available": true,
+	"geometry": {"type": "point", "coordinates": [120, 160]}
+}
+
+{
+	"name": "Quite",
+    	"rank": "10",
+    	"available": true,
+	"geometry": {"type": "point", "coordinates": [-10, -30]}
+}
+
+{
+	"name": "Solid snake",
+    	"rank": "3",
+    	"available": true,
+	"geometry": {"type": "point", "coordinates": [20, 50]}
+}
+
+{
+	 "name": "liquid snake",
+    	 "rank": "4",
+    	 "available": true,
+	 "geometry": {"type": "point", "coordinates": [30, 70]}
+}
